@@ -1,0 +1,21 @@
+.inputContainer {
+  position: relative;
+  height: 48px;
+  width: 100%;
+  margin-bottom: 16px;
+}
+
+.input {
+  background: #202020;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  height: 100%;
+  width: 100%;
+  font-size: 18px;
+  padding: 0 24px;
+  border: none;
+  outline: none;
+  z-index: 1;
+  color: #f9f9f9;
+}
